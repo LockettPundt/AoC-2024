@@ -5,5 +5,5 @@ export const splitByNewLine = (filePath: string): string[] => {
 
 export const splitByRegex = (filePath: string, regex: RegExp): string[] => {
   const data = Deno.readTextFileSync(filePath);
-  return data.split(regex);
+  return data.match(regex) ?? [];
 };
