@@ -27,6 +27,9 @@ My solutions for [Advent of Code 2024](https://adventofcode.com/2024) challenges
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 01  | ⭐     | ⭐     |
+| 02  | ⭐     | ⭐     |
+| 03  | ⭐     | ☆      |
+| 04  | ⭐     | ⭐     |
 
 ### 🛠️ Tech Stack
 
