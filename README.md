@@ -30,6 +30,7 @@ My solutions for [Advent of Code 2024](https://adventofcode.com/2024) challenges
 | 02  | ⭐     | ⭐     |
 | 03  | ⭐     | ☆      |
 | 04  | ⭐     | ⭐     |
+| 05  | ⭐     | ⭐     |
 
 ### 🛠️ Tech Stack
 
