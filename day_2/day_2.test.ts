@@ -1,6 +1,6 @@
 import { assertEquals } from 'https://deno.land/std/assert/mod.ts';
 
-import { splitByNewLine } from '../utils/utils.ts';
+import { splitByNewLine } from '@utils/utils.ts';
 import { redNosedReports } from './day_2.ts';
 
 Deno.test('Day 2 - part one', () => {

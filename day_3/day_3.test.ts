@@ -1,6 +1,6 @@
 import { assertEquals } from 'https://deno.land/std/assert/mod.ts';
 
-import { splitByRegex } from '../utils/utils.ts';
+import { splitByRegex } from '@utils/utils.ts';
 import { mullItOver } from './day_3.ts';
 
 Deno.test('Day 3 - part one', () => {
